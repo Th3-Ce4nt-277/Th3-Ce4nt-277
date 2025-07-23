@@ -1,9 +1,7 @@
-# Hi i'm **TheCeant277**
-
 ## About me
 - Front-End Developer
 - Back-End Developer
-
+- Web Designer
 <!--
 **Th3-Ce4nt-277/Th3-Ce4nt-277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
