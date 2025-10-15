@@ -1,7 +1,10 @@
+Hi, i´m **Ceant**
 ## About me 💻
+Self-taught **Web Developer** whit 6 years of experience and solid knowledge in creating **responsive and accessible user interfaces**, committed to continuous improvement and technological innovation
+
+- 🌐 Web Designer
 - 🎨 Front-End Developer
 - 💾 Back-End Developer
-- 🌐 Web Designer
 <!--
 **Th3-Ce4nt-277/Th3-Ce4nt-277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
